@@ -7,23 +7,27 @@ Link do Padlet:
 
 ## 1. Introdução
 
-***1.1.  Nome do Grupo***
+***1.1.  Os-faltantes***
 
-Indicar o nome e github dos integrantes do grupo
+AMANDA
+RICARDO
+ISABELLA
+GEISILY
+DAVI
 
-***1.2.  Nome do Sistema***
+***1.2.  JANELINHA***
 
-Indicar o nome do software proposto
+
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`Dupla-de-tres-grupo9`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O objetivo do sistema `JANELINHA` ten como princípio auxiliar professores do ensino fundamental I a enriquecer o aprendizado dos alunos e otimizar o tempo gasto na preparação de atividades.
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+*Este documento se destina aos arquitetos de software, engenheiros de software, testadores e professores.*
 
 ***1.3. Descrição dos usuários***
 
