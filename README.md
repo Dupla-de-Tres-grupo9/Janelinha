@@ -10,6 +10,7 @@ Link do Padlet:
 ***1.1.  Os-faltantes***
 
 AMANDA
+camila
 RICARDO
 ISABELLA
 GEISILY
