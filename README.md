@@ -10,9 +10,13 @@ Link do Padlet: https://padlet.com/isabellapires5/engenharia-de-requisitos-xllti
 ***1.1.  Participantes***
 
 GEISILY DE SOUZA VARGAS
+
 DAVI FELIPE ZENERATTO
+
 AMANDA GARCIA DOMINGUES
+
 RICARDO LIMA DA SILVA
+
 ISABELLA PIRES DA SILVA
 
 ***1.2.  Nome do Grupo***
