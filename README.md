@@ -1,5 +1,5 @@
 
-# Projeto Disciplina: Requisitos de Software
+# Projeto Disciplina: Requisitos de Software.
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
