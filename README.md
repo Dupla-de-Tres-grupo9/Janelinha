@@ -3,27 +3,26 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-Link do Padlet:
+Link do Padlet: https://padlet.com/isabellapires5/engenharia-de-requisitos-xllti25kp9kdophl
 
 ## 1. Introdução
 
-***1.1.  Os-faltantes***
+***1.1.  Participantes***
 
-AMANDA
-RICARDO
-ISABELLA
-GEISILY
-DAVI
+AMANDA GARCIA DOMINGUES
+RICARDO LIMA DA SILVA
+ISABELLA PIRES DA SILVA
+GEISILY DE SOUZA VARGAS
+DAVI FELIPE ZENERATTO
 
-***1.2.  JANELINHA***
+***1.2.  Nome do Projeto***
 
-
+Janelinha
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`Dupla-de-tres-grupo9`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+O propósito do sistema é auxiliar os professores encontrarem atividades para enriquecer o aprendizado do discente e otimizar o tempo do docente.
 
-O objetivo do sistema `JANELINHA` ten como princípio auxiliar professores do ensino fundamental I a enriquecer o aprendizado dos alunos e otimizar o tempo gasto na preparação de atividades.
 
 ***1.2.  Público Alvo***
 
