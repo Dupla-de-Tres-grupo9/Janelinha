@@ -33,7 +33,7 @@ Professores Ensino-Fundamental I
 
 ***1.3. Descrição dos usuários***
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
+*<Professores de ensino fundamental I, com objetivo de buscar tarefas de outros docentes para aplicar em seus alunos>*
 
 ***Personas:***
 
