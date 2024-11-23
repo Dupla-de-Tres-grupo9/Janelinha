@@ -21,7 +21,7 @@ ISABELLA PIRES DA SILVA
 
 ***1.2.  Nome do Grupo***
 
-Janelinha
+Janelinha.
 
 ***1.3.  Propósito do Sistema***
 
@@ -29,11 +29,11 @@ O propósito do sistema é auxiliar os professores encontrarem atividades para e
 
 ***1.2.  Público Alvo***
 
-Professores Ensino-Fundamental I
+Professores Ensino-Fundamental I.
 
 ***1.3. Descrição dos usuários***
 
-Professores de ensino fundamental I, com objetivo de criar ou buscar tarefas de outros docentes aplicáveis para os seus alunos
+Professores de ensino fundamental I, com objetivo de criar ou buscar tarefas de outros docentes aplicáveis para os seus alunos.
 
 ***Personas:***
 
