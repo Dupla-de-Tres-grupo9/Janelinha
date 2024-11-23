@@ -80,21 +80,21 @@ Professores de ensino fundamental I, com objetivo de criar ou buscar tarefas de 
 |  |  |
 |--|--|
 Requisito |Especificação
-RF01 | O sistema deve permitir que o usuário faça um cadastro;
-RF02 | O sistema deve permitir com que o usuário faça Login no sistema. 
-RF03 | O sistema deve permitir com que o usuário possa alterar seus dados;|
-RF04|O sistema deve exibir um perfil de usuário com os dados cadastrais;
-RF05|O sistema deve permitir com que usuários criem novas atividades;
-RF06|O sistema deve apresentar opção de compartilhar ou não a atividade criada com a comunidade;
-RF07|O sistema deve permitir que os usuários busquem atividades compartilhadas com a comunidade;
-RF08|O sistema deve apresentar uma aba com a atividades já utilizadas (criadas ou selecionadas da comunidade);
-RF09|O sistema deve permitir que os professores editem materiais já compartilhados na comunidade;
-RF10|O sistema deve apresentar uma trilha de materiais recomendados por professores;
-RF11|O sistema deve permitir que os usuários avaliem as atividades compartilhadas;
-RF12|O sistema deve permitir com que o usuário faça download em PDF das atividades;
-RF13|O sistema deve exigir palavras-chave sobre a atividade antes da publicação;
-RF14|O sistema deve permitir uso de filtros de busca para a encontrar atividades (baseados nas palavras-chave);
-RF15 |O sistema deve permitir que o usuário crie trilhas com atividades já disponíveis por professores.
+RF01 | O usuário deve poder criar uma conta no sistema;
+RF02 | O usuário deve poder criar novas atividades;
+RF03 | O usuário deve poder buscar atividades compartilhadas na comunidade;|
+RF04|O usuário deve poder criar trilhas com atividades já compartilhadas pelos professores;
+RF05|O usuário deve concordar com os termos de uso e política de privacidade ao criar uma conta;
+RF06|O sistema deve permitir que o usuário compartilhe atividades com outros usuários;
+RF07|As atividades do sistema devem seguir a BNCC atualizada;
+RF08|O sistema permiti que o usuário faça o download do arquivo em pdf das atividades;
+RF09|A senha do usuário deve ser armazenada de forma criptografada, utilizando algoritmos seguros;
+RF10|O sistema deve permitir que o usuário edite as informações de uma atividade após a criação;
+RF11|O sistema deve possuir um campo de busca intuitivo, permitindo que o usuário digite palavras-chave relacionadas à atividade que deseja encontrar;
+RF12|o sistema deve oferecer filtros adicionais para refinar a pesquisa;
+RF13|O usuário deve poder escolher se deseja baixar uma única atividade ou um conjunto de atividades;
+RF14|O sistema pode acompanhar o progresso do usuário ao longo da trilha, permitindo que ele visualize quais atividades já foram concluídas e quais ainda estão pendentes;
+RF15 |O sistema deve apresentar uma trilha de materiais recomendados por professores;
 
 ***2.2. Requisitos Não Funcionais***
 
