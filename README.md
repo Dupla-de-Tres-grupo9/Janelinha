@@ -55,9 +55,27 @@ Professores de ensino fundamental I, com objetivo de criar ou buscar tarefas de 
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
+O que as pessoas fazem?
+
+A professora busca conteúdos pedagógicos em redes sociais ou sites.
+Analisa as ideias disponíveis para selecionar as que se adequam aos seus alunos.
+Realiza o pagamento para acessar materiais ou tenta reproduzi-los manualmente utilizando ferramentas de edição.
+Prepara as atividades com base no que conseguiu acessar ou adaptar.
+
+Quais os artefatos envolvidos?
+
+Redes sociais e sites com ideias de atividades pedagógicas.
+Ferramentas de edição de texto ou imagem.
+Materiais impressos para as atividades.
+Cartão de crédito ou método de pagamento (caso o acesso ao conteúdo seja pago).
+
+O que elas precisam saber?
+
+Como acessar e navegar em redes sociais e sites educacionais para localizar conteúdos relevantes.
+Identificar as necessidades dos alunos para escolher atividades adequadas.
+Utilizar ferramentas de edição para adaptar ou recriar o material encontrado.
+Conhecimentos básicos de impressão e formatação para garantir a qualidade do material.
+
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
