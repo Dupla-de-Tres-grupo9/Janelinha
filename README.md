@@ -33,7 +33,7 @@ Professores Ensino-Fundamental I
 
 ***1.3. Descrição dos usuários***
 
-*<Professores de ensino fundamental I, com objetivo de buscar tarefas de outros docentes para aplicar em seus alunos>*
+Professores de ensino fundamental I, com objetivo de criar ou buscar tarefas de outros docentes aplicáveis para os seus alunos
 
 ***Personas:***
 
