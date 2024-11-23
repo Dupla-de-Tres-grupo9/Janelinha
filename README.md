@@ -37,7 +37,21 @@ Professores de ensino fundamental I, com objetivo de criar ou buscar tarefas de 
 
 ***Personas:***
 
-*<Imagem, arquivo (PDF), link com as Personas.>*
+> ![Marianna Neves](https://github.com/Dupla-de-Tres-grupo9/Janelinha/blob/18b9b569921e8b6d7767c9d5f859e8478d9f3ec4/Frame%2010.png)
+> Marianna Neves
+> 25 anos  
+
+#### História:
+> Mariana é professora e busca inovar no ensino de sua turma do segundo ano, com atividades que saiam da rotina das apostilas, e que sejam inclusivas com alunos que tenham deficiências no aprendizado. Ela gosta de criar suas próprias atividades, e aproveita para disponibilizar para outras professoras que queiram usar também tenham acesso.
+
+#### Motivação: 
+> Marianna sabe que algumas atividades disponíveis nas redes tem uma qualidade baixa e não trazem a acessibilidade ao alunos que tem dificuldade no aprendizado, como por exemplo baixa visão ou dislexia.  
+
+#### Dificuldade: 
+>A busca das atividades até que ela encontre um template ou uma atividade específica pode tirar muito tempo do horário de planejamento que ela tem. Ela tem um limite de armazenamento no computador da escola, não pode baixar um programa.  
+
+#### TiCs: 
+>Ela utiliza o computador da escola para planejar suas aulas. A maior parte de suas atividades vem da redes sociais como o Instagram e o TikTok.  
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
