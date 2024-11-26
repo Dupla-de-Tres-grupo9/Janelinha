@@ -55,9 +55,9 @@ Professores de ensino fundamental I, com objetivo de criar ou buscar tarefas de 
 
 
 
-> ![Gabriella Leal]()
+> ![Gabriella Leal](https://github.com/Dupla-de-Tres-grupo9/Janelinha/blob/ca81c692254461cedbe902bd31bf8a51294d66d2/jkl.png)
 > Gabriella Leal
-> 25 anos  
+> 34 anos  
 
 #### História:
 > É uma pedagoga que administra as aulas de reforço de matemática de contraturno para alunos de diferentes idades e séries na mesma turma.
