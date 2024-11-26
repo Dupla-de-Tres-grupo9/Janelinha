@@ -53,6 +53,24 @@ Professores de ensino fundamental I, com objetivo de criar ou buscar tarefas de 
 #### TiCs: 
 >Ela utiliza o computador da escola para planejar suas aulas. A maior parte de suas atividades vem da redes sociais como o Instagram e o TikTok.  
 
+
+
+> ![Gabriella Leal]()
+> Gabriella Leal
+> 25 anos  
+
+#### História:
+> É uma pedagoga que administra as aulas de reforço de matemática de contraturno para alunos de diferentes idades e séries na mesma turma.
+
+#### Motivação: 
+> É uma pedagoga que administra as aulas de reforço de matemática de contraturno para alunos de diferentes idades e séries na mesma turma.  
+
+#### Dificuldade: 
+>Gabriella tem dificuldade em encontrar atividades do nível de aprendizado específico de seus alunos, já que cada um está em uma fase diferente e não receber o feedback dos pais quanto aos dever de casa.  
+
+#### TiCs: 
+>Gabriela possui disponibilidade de criar as atividades pelo computador pessoal e celular.
+
 ***Análise da situação atual: antes da introdução de sua solução***
 
 ***O que as pessoas fazem?***
