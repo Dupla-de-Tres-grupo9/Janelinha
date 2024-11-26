@@ -53,15 +53,6 @@ Professores de ensino fundamental I, com objetivo de criar ou buscar tarefas de 
 #### TiCs: 
 >Ela utiliza o computador da escola para planejar suas aulas. A maior parte de suas atividades vem da redes sociais como o Instagram e o TikTok.  
 
-
-
-
-
-
-
-
-
-
 > ![Gabriella Leal](https://github.com/Dupla-de-Tres-grupo9/Janelinha/blob/4bf91b9928b079888ef429d8ddba685e4a7a8b22/fgh.png)
 > Gabriella Leal
 > 30 anos  
@@ -158,24 +149,24 @@ Após a utilização da platarforma com atividades aprofundadas em áreas de int
 
 ***2.1. Requisitos Funcionais***
 
-|  |  |
-|--|--|
-Requisito |Especificação
-RF01 | O usuário deve poder criar uma conta no sistema;
-RF02 | O usuário deve poder criar novas atividades;
-RF03 | O usuário deve poder buscar atividades compartilhadas na comunidade;|
-RF04|O usuário deve poder criar trilhas com atividades já compartilhadas pelos professores;
-RF05|O usuário deve concordar com os termos de uso e política de privacidade ao criar uma conta;
-RF06|O sistema deve permitir que o usuário compartilhe atividades com outros usuários;
-RF07|As atividades do sistema devem seguir a BNCC atualizada;
-RF08|O sistema permiti que o usuário faça o download do arquivo em pdf das atividades;
-RF09|A senha do usuário deve ser armazenada de forma criptografada, utilizando algoritmos seguros;
-RF10|O sistema deve permitir que o usuário edite as informações de uma atividade após a criação;
-RF11|O sistema deve possuir um campo de busca intuitivo, permitindo que o usuário digite palavras-chave relacionadas à atividade que deseja encontrar;
-RF12|o sistema deve oferecer filtros adicionais para refinar a pesquisa;
-RF13|O usuário deve poder escolher se deseja baixar uma única atividade ou um conjunto de atividades;
-RF14|O sistema pode acompanhar o progresso do usuário ao longo da trilha, permitindo que ele visualize quais atividades já foram concluídas e quais ainda estão pendentes;
-RF15 |O sistema deve apresentar uma trilha de materiais recomendados por professores;
+|  |  |  |  |  |
+|--|--|--|--|--|
+Requisito |Especificação |Prioridade |Depende de:
+RF01 | O usuário deve poder criar uma conta no sistema; | Alta 
+RF02 | O usuário deve poder criar novas atividades; | Alta | RF01
+RF03 | O usuário deve poder buscar atividades compartilhadas na comunidade; | Alta | RF01, RF02
+RF04|O usuário deve poder criar trilhas com atividades já compartilhadas pelos professores; | Média | RF01, RF02, RF03 
+RF05|O usuário deve concordar com os termos de uso e política de privacidade ao criar uma conta; | Média | RF01
+RF06|O sistema deve permitir que o usuário compartilhe atividades na plataforma; | Alta | RF01, RF02
+RF07|A senha do usuário deve ser armazenada de forma criptografada, utilizando algoritmos seguros; | Alta | RF01, RNF04
+RF08|O sistema permiti que o usuário faça o download do arquivo em pdf das atividades; | Alta | RF01, RF02, RF03
+RF09|As atividades do sistema devem seguir a BNCC atualizada; | Baixa
+RF10|O sistema deve permitir que o usuário edite as informações de uma atividade após a criação; |  | RF01, RF02
+RF11|O sistema deve garantir que as atividades que forem editadas por um usuário sem ser o autor original fiquem salvas no perfil pessoal como Rascunho e não voltem a ser compartilhadas na comunidade; |  | RF01, RF02
+RF12|o sistema deve oferecer filtros adicionais para refinar a pesquisa; |  | RNF01, RNF02
+RF13|O usuário deve poder escolher se deseja baixar uma única atividade ou um conjunto de atividades; |  | RNF01, RNF02
+RF14|O sistema pode acompanhar o progresso do usuário ao longo da trilha, permitindo que ele visualize quais atividades já foram concluídas e quais ainda estão pendentes; |  | RF01, RF02
+RF15 |O sistema deve apresentar uma trilha de materiais recomendados por professores; |  | RF01, RF02, RF03  
 
 ***2.2. Requisitos Não Funcionais***
 
