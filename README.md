@@ -170,7 +170,7 @@ RF15 |O sistema deve apresentar uma trilha de materiais recomendados por profess
 
 ***2.2. Requisitos Não Funcionais***
 
->!(https://github.com/Dupla-de-Tres-grupo9/Janelinha/blob/3c4f320a3a9593cbb771aa0d2bd70ab227f24889/RNF.png)
+>![](https://github.com/Dupla-de-Tres-grupo9/Janelinha/blob/3c4f320a3a9593cbb771aa0d2bd70ab227f24889/RNF.png)
 
 ***2.3. Perguntas***
 
