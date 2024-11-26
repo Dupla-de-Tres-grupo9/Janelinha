@@ -55,21 +55,21 @@ Professores de ensino fundamental I, com objetivo de criar ou buscar tarefas de 
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
-O que as pessoas fazem?
+***O que as pessoas fazem?***
 
 A professora busca conteúdos pedagógicos em redes sociais ou sites.
 Analisa as ideias disponíveis para selecionar as que se adequam aos seus alunos.
 Realiza o pagamento para acessar materiais ou tenta reproduzi-los manualmente utilizando ferramentas de edição.
 Prepara as atividades com base no que conseguiu acessar ou adaptar.
 
-Quais os artefatos envolvidos?
+***Quais os artefatos envolvidos?***
 
 Redes sociais e sites com ideias de atividades pedagógicas.
 Ferramentas de edição de texto ou imagem.
 Materiais impressos para as atividades.
 Cartão de crédito ou método de pagamento (caso o acesso ao conteúdo seja pago).
 
-O que elas precisam saber?
+***O que elas precisam saber?***
 
 Como acessar e navegar em redes sociais e sites educacionais para localizar conteúdos relevantes.
 Identificar as necessidades dos alunos para escolher atividades adequadas.
@@ -79,9 +79,28 @@ Conhecimentos básicos de impressão e formatação para garantir a qualidade do
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
+***O que as pessoas fazem?***
+
+A professora procura atividades específicas para suas aulas, de acordo com a disciplina e os requisitos necessários (como diversidade de atividades e recursos acessíveis).
+pós a busca, ela avalia e escolhe a atividade que atenda melhor às suas necessidades pedagógicas.
+A professora baixa a atividade selecionada, garantindo que ela seja de alta qualidade e sem risco de plágio.
+A professora pode ajustar o formato da atividade, como aumentar o tamanho da fonte ou até imprimir a atividade em braile, de acordo com as necessidades dos alunos.
+
+***Quais os artefatos envolvidos?***
+
+O sistema ou ferramenta que oferece as atividades pedagógicas para as professoras, onde ela pode buscar e filtrar as opções conforme os critérios que ela definir.
+Os materiais prontos ou adaptáveis que a professora seleciona para suas aulas.
+Funcionalidades dentro da plataforma que permitem à professora aumentar o tamanho da fonte ou adaptar o material para a impressão em braile, garantindo acessibilidade aos alunos com necessidades específicas.
+O documento final ou o material em formato digital que a professora obtém após a personalização.
+
+***O que elas precisam saber?***
+
+Ter familiaridade com as funcionalidades da plataforma para buscar as atividades mais relevantes de acordo com o conteúdo programático da disciplina.
+Compreender como selecionar atividades que atendam às necessidades pedagógicas, considerando a diversidade de alunos (por exemplo, alunos com deficiência visual, diferentes níveis de aprendizagem, etc.).
+Conhecer as ferramentas de personalização para garantir que o material seja acessível a todos os alunos.
+Saber que as atividades baixadas da plataforma são de alta qualidade e sem risco de plágio, garantindo que os conteúdos estejam em conformidade com as normas de propriedade intelectual.
+Como ajustar o material baixado para impressão, como aumentar o tamanho da fonte ou configurar para impressão em braile.
+
 
 ***Cenário: Antes***
 
