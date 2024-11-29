@@ -169,8 +169,19 @@ RF14|O sistema pode acompanhar o progresso do usuário ao longo da trilha, permi
 RF15 |O sistema deve apresentar uma trilha de materiais recomendados por professores; |  | RF01, RF02, RF03  
 
 ***2.2. Requisitos Não Funcionais***
-
->![](https://github.com/Dupla-de-Tres-grupo9/Janelinha/blob/3c4f320a3a9593cbb771aa0d2bd70ab227f24889/RNF.png)
+|  |  |  |  |  |
+|--|--|--|--|--|
+Requisito |Especificação |Prioridade |Depende de: |Escopo
+RNF01 | A plataforma deve seguir padrões de acessibilidade, como o WCAG; | Usabilidade | | Software
+RFN02 | A plataforma deve seguir um padrão de ícones como alternativa para informações textuais; | Usabilidade | RNF01 | Software
+RFN03 | A plataforma deve permitir o acesso de pelo menos 500.000 usuários simultâneos; | Desempenho | | Sistema
+RFN04|A plataforma deve garantir a segurança dos dados cadastrados pelos usuários; | Segurança | sistema|  Sistema
+RFN05|A plataforma deve garantir que os trabalhos sejam salvos automaticamente; | Confiabilidade | | Sistema
+RFN06|A plataforma deve apresentar mensagens de progresso; | Confiabilidade | RNF02| Software
+RFN07|A plataforma deve garantir que os dados das atividades não sejam alterados ou corrompidos; | Segurança | | Sistema
+RFN08|A plataforma deve estar disponível 24 horas por dia, 7 dias por semana, com um tempo de inatividade mínimo; | Disponibilidade | | Sistema
+RFN09|A plataforma deve ser capaz de lidar com um aumento de usuários e atividades, sem comprometer o desempenho; | Desempenho| | Sistema
+RFN10|A plataforma deve ser compatível com os principais navegadores e dispositivos móveis; | Disponibilidade | | Sistema
 
 ***2.3. Perguntas***
 
