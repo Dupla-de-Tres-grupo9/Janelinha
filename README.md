@@ -185,7 +185,6 @@ RFN10|A plataforma deve ser compatível com os principais navegadores e disposit
 
 ***2.3. Perguntas***
 
-*<Arquivo com as perguntas realizadas na entrevista .>*
 
 ***2.4. Entrevista***
 
