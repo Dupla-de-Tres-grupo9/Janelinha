@@ -3,7 +3,7 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-Link do Padlet: https://padlet.com/isabellapires5/engenharia-de-requisitos-xllti25kp9kdophl
+>[Padlet](https://padlet.com/isabellapires5/engenharia-de-requisitos-xllti25kp9kdophl)
 
 ## 1. Introdução
 
