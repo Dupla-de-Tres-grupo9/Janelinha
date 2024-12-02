@@ -184,7 +184,7 @@ RFN09|A plataforma deve ser capaz de lidar com um aumento de usuários e ativida
 RFN10|A plataforma deve ser compatível com os principais navegadores e dispositivos móveis; | Disponibilidade | | Sistema
 
 ***2.3. Perguntas***
-
+>[Perguntas](https://github.com/Dupla-de-Tres-grupo9/Janelinha/blob/b1957378be510e28090313f84c37325a5b4bc16b/QUESTION%C3%81RIO%20-%20PERGUNTAS.pdf)
 
 ***2.4. Entrevista***
 
