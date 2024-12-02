@@ -189,8 +189,7 @@ RFN10|A plataforma deve ser compatível com os principais navegadores e disposit
 
 ***2.4. Entrevista***
 
-*<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
-
+![]{https://github.com/Dupla-de-Tres-grupo9/Janelinha/blob/8e077605d2941ae5f835104dd3d23ce0ea6cf612/QUESTION%C3%81RIO%20ENTREVISTA.pdf}
 ***2.5. Histórias do Usuário***
 
 *<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
