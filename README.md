@@ -53,9 +53,9 @@ Professores de ensino fundamental I, com objetivo de criar ou buscar tarefas de 
 >Ela utiliza o computador da escola para planejar suas aulas. A maior parte de suas atividades vem da redes sociais como o Instagram e o TikTok.
 
 
->![Gabriella Leal](https://github.com/Dupla-de-Tres-grupo9/Janelinha/blob/4bf91b9928b079888ef429d8ddba685e4a7a8b22/fgh.png)
+>![Gabriella Leal](https://github.com/Dupla-de-Tres-grupo9/Janelinha/blob/c4af63d173416c42e494ade992bc9c3d9d95337c/20241202_214013_0000.png)
 > Gabriella Leal
-> 40 anos  
+> 29 anos  
 
 #### História:
 > É uma pedagoga que administra as aulas de reforço de matemática de contraturno para alunos de diferentes idades e séries na mesma turma.
