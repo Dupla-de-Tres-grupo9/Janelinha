@@ -52,9 +52,9 @@ Professores de ensino fundamental I, com objetivo de criar ou buscar tarefas de 
 
 #### TiCs: 
 >Ela utiliza o computador da escola para planejar suas aulas. A maior parte de suas atividades vem da redes sociais como o Instagram e o TikTok.
-
-  
-
+>
+> 
+>
 > ![Gabriella Leal](https://github.com/Dupla-de-Tres-grupo9/Janelinha/blob/4bf91b9928b079888ef429d8ddba685e4a7a8b22/fgh.png)
 > Gabriella Leal
 > 29 anos  
