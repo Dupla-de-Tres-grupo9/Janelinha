@@ -149,8 +149,8 @@ Professores de ensino fundamental I, com objetivo de criar ou buscar tarefas de 
 
 ***2.1. Requisitos Funcionais***
 
-|  |  |  |  |  |
-|--|--|--|--|--|
+|  |  |  |  |
+|--|--|--|--|
 Requisito |Especificação |Prioridade |Depende de:
 RF01 | O usuário deve poder criar uma conta no sistema; | Alta 
 RF02 | O usuário deve poder criar novas atividades; | Alta | RF01
