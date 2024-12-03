@@ -161,7 +161,7 @@ RF06|O sistema deve permitir que o usuário compartilhe atividades na plataforma
 RF07|A senha do usuário deve ser armazenada de forma criptografada, utilizando algoritmos seguros; | Alta | RF01, RNF04
 RF08|O sistema permiti que o usuário faça o download do arquivo em pdf das atividades; | Alta | RF01, RF02, RF03
 RF09|As atividades do sistema devem seguir a BNCC atualizada; | Baixa
-RF10|O sistema deve permitir que o usuário edite as informações de uma atividade após a criação; |  | RF01, RF02
+RF10|O sistema deve permitir que o usuário edite as informações de uma atividade após a criação; | Alta | RF01, RF02
 RF11|O sistema deve garantir que as atividades que forem editadas por um usuário sem ser o autor original fiquem salvas no perfil pessoal como Rascunho e não voltem a ser compartilhadas na comunidade; | Alta | RF01, RF02, RF10
 RF12|o sistema deve oferecer filtros adicionais para refinar a pesquisa; | Alta | RNF01, RNF02
 RF13|O usuário deve poder escolher se deseja baixar uma única atividade ou um conjunto de atividades; | Alta | RNF01, RNF02
