@@ -55,20 +55,20 @@ Professores de ensino fundamental I, com objetivo de criar ou buscar tarefas de 
 
 
 >![Gabriella Leal](https://github.com/Dupla-de-Tres-grupo9/Janelinha/blob/4bf91b9928b079888ef429d8ddba685e4a7a8b22/fgh.png)
->> Gabriella Leal
->> 29 anos  
+> Gabriella Leal
+> 40 anos  
 
->#### História:
->> É uma pedagoga que administra as aulas de reforço de matemática de contraturno para alunos de diferentes idades e séries na mesma turma.
+#### História:
+> É uma pedagoga que administra as aulas de reforço de matemática de contraturno para alunos de diferentes idades e séries na mesma turma.
 
 #### Motivação: 
->> É uma pedagoga que administra as aulas de reforço de matemática de contraturno para alunos de diferentes idades e séries na mesma turma.  
+> É uma pedagoga que administra as aulas de reforço de matemática de contraturno para alunos de diferentes idades e séries na mesma turma.  
 
 #### Dificuldade: 
->>Gabriella tem dificuldade em encontrar atividades do nível de aprendizado específico de seus alunos, já que cada um está em uma fase diferente e não receber o feedback dos pais quanto aos dever de casa.  
+>Gabriella tem dificuldade em encontrar atividades do nível de aprendizado específico de seus alunos, já que cada um está em uma fase diferente e não receber o feedback dos pais quanto aos dever de casa.  
 
 #### TiCs: 
->>Gabriela possui disponibilidade de criar as atividades pelo computador pessoal e celular.
+>Gabriela possui disponibilidade de criar as atividades pelo computador pessoal e celular.
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
