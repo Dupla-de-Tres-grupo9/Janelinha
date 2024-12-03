@@ -162,11 +162,11 @@ RF07|A senha do usuário deve ser armazenada de forma criptografada, utilizando 
 RF08|O sistema permiti que o usuário faça o download do arquivo em pdf das atividades; | Alta | RF01, RF02, RF03
 RF09|As atividades do sistema devem seguir a BNCC atualizada; | Baixa
 RF10|O sistema deve permitir que o usuário edite as informações de uma atividade após a criação; |  | RF01, RF02
-RF11|O sistema deve garantir que as atividades que forem editadas por um usuário sem ser o autor original fiquem salvas no perfil pessoal como Rascunho e não voltem a ser compartilhadas na comunidade; |  | RF01, RF02
-RF12|o sistema deve oferecer filtros adicionais para refinar a pesquisa; |  | RNF01, RNF02
-RF13|O usuário deve poder escolher se deseja baixar uma única atividade ou um conjunto de atividades; |  | RNF01, RNF02
-RF14|O sistema pode acompanhar o progresso do usuário ao longo da trilha, permitindo que ele visualize quais atividades já foram concluídas e quais ainda estão pendentes; |  | RF01, RF02
-RF15 |O sistema deve apresentar uma trilha de materiais recomendados por professores; |  | RF01, RF02, RF03  
+RF11|O sistema deve garantir que as atividades que forem editadas por um usuário sem ser o autor original fiquem salvas no perfil pessoal como Rascunho e não voltem a ser compartilhadas na comunidade; | Alta | RF01, RF02, RF10
+RF12|o sistema deve oferecer filtros adicionais para refinar a pesquisa; | Alta | RNF01, RNF02
+RF13|O usuário deve poder escolher se deseja baixar uma única atividade ou um conjunto de atividades; | Alta | RNF01, RNF02
+RF14|O sistema pode acompanhar o progresso do usuário ao longo da trilha, permitindo que ele visualize quais atividades já foram concluídas e quais ainda estão pendentes; | Alta | RF01, RF03
+RF15 |O sistema deve apresentar uma trilha de materiais recomendados por professores; | Média | RF01, RF02, RF03  
 
 ***2.2. Requisitos Não Funcionais***
 |  |  |  |  |  |
@@ -175,9 +175,9 @@ Requisito |Especificação |Prioridade |Depende de: |Escopo
 RNF01 | A plataforma deve seguir padrões de acessibilidade, como o WCAG; | Usabilidade | | Software
 RFN02 | A plataforma deve seguir um padrão de ícones como alternativa para informações textuais; | Usabilidade | RNF01 | Software
 RFN03 | A plataforma deve permitir o acesso de pelo menos 500.000 usuários simultâneos; | Desempenho | | Sistema
-RFN04|A plataforma deve garantir a segurança dos dados cadastrados pelos usuários; | Segurança | sistema|  Sistema
+RFN04|A plataforma deve garantir a segurança dos dados cadastrados pelos usuários; | Segurança | |  Sistema
 RFN05|A plataforma deve garantir que os trabalhos sejam salvos automaticamente; | Confiabilidade | | Sistema
-RFN06|A plataforma deve apresentar mensagens de progresso; | Confiabilidade | RNF02| Software
+RFN06|A plataforma deve apresentar mensagens de progresso; | Confiabilidade | RNF02 | Software
 RFN07|A plataforma deve garantir que os dados das atividades não sejam alterados ou corrompidos; | Segurança | | Sistema
 RFN08|A plataforma deve estar disponível 24 horas por dia, 7 dias por semana, com um tempo de inatividade mínimo; | Disponibilidade | | Sistema
 RFN09|A plataforma deve ser capaz de lidar com um aumento de usuários e atividades, sem comprometer o desempenho; | Desempenho| | Sistema
