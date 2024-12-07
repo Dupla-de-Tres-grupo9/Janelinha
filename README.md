@@ -192,12 +192,13 @@ RNF10|A plataforma deve ser compatível com os principais navegadores e disposit
 
 ***2.5. Histórias do Usuário***
 
-1º Como professor, quero criar atividades interativas de forma rápida e fácil para que meus alunos se engajem mais nas aulas.
-2º Como professor, quero organizar minhas atividades em pastas ou coleções para facilitar o acesso.
-3º Como professor, quero economizar tempo na criação de materiais didáticos.
-4º Como aluno, quero realizar atividades divertidas e desafiadoras para aprender de forma mais engajada.
-5º Como aluno, quero poder acompanhar meu progresso ao longo do tempo.
-6º Como aluno, quero que o aplicativo me ajude a desenvolver minhas habilidades e talentos.
+
+- 1º Como professor, quero criar atividades interativas de forma rápida e fácil para que meus alunos se engajem mais nas aulas.
+- 2º Como professor, quero organizar minhas atividades em pastas ou coleções para facilitar o acesso.
+- 3º Como professor, quero economizar tempo na criação de materiais didáticos.
+- 4º Como aluno, quero realizar atividades divertidas e desafiadoras para aprender de forma mais engajada.
+- 5º Como aluno, quero poder acompanhar meu progresso ao longo do tempo.
+- 6º Como aluno, quero que o aplicativo me ajude a desenvolver minhas habilidades e talentos.
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
@@ -220,3 +221,4 @@ RNF10|A plataforma deve ser compatível com os principais navegadores e disposit
 *<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
 
 [1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
+
