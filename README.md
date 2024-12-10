@@ -184,7 +184,7 @@ RNF09|A plataforma deve ser capaz de lidar com um aumento de usuários e ativida
 RNF10|A plataforma deve ser compatível com os principais navegadores e dispositivos móveis; | Disponibilidade | | Sistema
 
 ***2.3. Perguntas***
->QUESTIONÁRIO
+>QUESTIONÁRIO:
 >
 >1. Qual é a natureza da instituição na qual você está empregado: escola pública ou escola privada?
 >
@@ -211,7 +211,6 @@ RNF10|A plataforma deve ser compatível com os principais navegadores e disposit
 >[Entrevista](https://github.com/Dupla-de-Tres-grupo9/Janelinha/blob/8e077605d2941ae5f835104dd3d23ce0ea6cf612/QUESTION%C3%81RIO%20ENTREVISTA.pdf)
 
 ***2.5. Histórias do Usuário***
-
 
 - 1º Como professor, quero criar atividades interativas de forma rápida e fácil para que meus alunos se engajem mais nas aulas.
 - 2º Como professor, quero organizar minhas atividades em pastas ou coleções para facilitar o acesso.
