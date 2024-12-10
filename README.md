@@ -228,7 +228,7 @@ RNF10|A plataforma deve ser compatível com os principais navegadores e disposit
 
 *<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
 
-***2.8. Matrizes de Rastreabilidade***
+***2.8. Diagrama de Classe***
 
 *<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
 
