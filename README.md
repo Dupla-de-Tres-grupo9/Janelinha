@@ -94,11 +94,11 @@ Professores de ensino fundamental I, com objetivo de criar ou buscar tarefas de 
 ***O que elas precisam saber?***
 
 >Como acessar e navegar em redes sociais e sites educacionais para localizar conteúdos relevantes.
-
+>
 >Identificar as necessidades dos alunos para escolher atividades adequadas.
-
+>
 >Utilizar ferramentas de edição para adaptar ou recriar o material encontrado.
-
+>
 >Conhecimentos básicos de impressão e formatação para garantir a qualidade do material.
 
 
