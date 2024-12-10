@@ -177,7 +177,7 @@ RNF02 | A plataforma deve seguir um padrão de ícones como alternativa para inf
 RNF03 | A plataforma deve permitir o acesso de pelo menos 500.000 usuários simultâneos; | Desempenho | | Sistema
 RNF04|A plataforma deve garantir a segurança dos dados cadastrados pelos usuários; | Segurança | RNF03 |  Sistema
 RNF05|A plataforma deve garantir que os trabalhos sejam salvos automaticamente; | Confiabilidade | | Sistema
-RNF06|A plataforma deve apresentar mensagens de progresso; | Confiabilidade | RNF02 | Software
+RNF06|A plataforma deve apresentar mensagens de progresso ao realizar alguma ação, por exemplo: Conta Criada com Sucesso!, Criando Atividade..., Atividade Baixada.; | Confiabilidade | RNF02 | Software
 RNF07|A plataforma deve garantir que os dados das atividades não sejam alterados ou corrompidos; | Segurança | RNF04 | Sistema
 RNF08|A plataforma deve estar disponível 24 horas por dia, 7 dias por semana, com um tempo de inatividade mínimo; | Disponibilidade | RNF07 | Sistema
 RNF09|A plataforma deve ser capaz de lidar com um aumento de usuários e atividades, sem comprometer o desempenho; | Desempenho| RNF03 | Sistema
