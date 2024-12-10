@@ -155,7 +155,7 @@ Requisito |Especificação |Prioridade |Depende de:
 RF01 | O usuário deve poder criar uma conta no sistema; | Alta 
 RF02 | O usuário deve poder criar novas atividades; | Alta | RF01
 RF03 | O usuário deve poder buscar atividades compartilhadas na comunidade; | Alta | RF01, RF02
-RF04|O usuário deve poder criar trilhas com atividades já compartilhadas pelos professores; | Média | RF01, RF02, RF03 
+RF04|O usuário deve poder criar trilhas com atividades já compartilhadas pelos professores; | Alta | RF01, RF02, RF03 
 RF05|O usuário deve concordar com os termos de uso e política de privacidade ao criar uma conta; | Média | RF01
 RF06|O sistema deve permitir que o usuário compartilhe atividades na plataforma; | Alta | RF01, RF02
 RF07|A senha do usuário deve ser armazenada de forma criptografada, utilizando algoritmos seguros; | Alta | RF01, RNF04
@@ -166,7 +166,7 @@ RF11|O sistema deve garantir que as atividades que forem editadas por um usuári
 RF12|o sistema deve oferecer filtros adicionais para refinar a pesquisa; | Alta | RNF01, RNF02
 RF13|O usuário deve poder escolher se deseja baixar uma única atividade ou um conjunto de atividades; | Alta | RNF01, RNF02
 RF14|O sistema pode acompanhar o progresso do usuário ao longo da trilha, permitindo que ele visualize quais atividades já foram concluídas e quais ainda estão pendentes; | Alta | RF01, RF03
-RF15 |O sistema deve apresentar uma trilha de materiais recomendados por professores; | Média | RF01, RF02, RF03  
+RF15 |O sistema deve apresentar uma trilha de materiais recomendados por professores; | Alta | RF01, RF02, RF03  
 
 ***2.2. Requisitos Não Funcionais***
 |  |  |  |  |  |
