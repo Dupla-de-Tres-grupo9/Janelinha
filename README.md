@@ -184,7 +184,27 @@ RNF09|A plataforma deve ser capaz de lidar com um aumento de usuários e ativida
 RNF10|A plataforma deve ser compatível com os principais navegadores e dispositivos móveis; | Disponibilidade | | Sistema
 
 ***2.3. Perguntas***
->[Perguntas](https://github.com/Dupla-de-Tres-grupo9/Janelinha/blob/b1957378be510e28090313f84c37325a5b4bc16b/QUESTION%C3%81RIO%20-%20PERGUNTAS.pdf)
+>QUESTIONÁRIO
+>
+>1. Qual é a natureza da instituição na qual você está empregado: escola pública ou escola privada?
+>
+>2. Qual série ou nível de ensino você está incumbido de lecionar?
+>
+>3. Qual é o número total de alunos matriculados na sua sala de aula?
+>
+>4. Quais recursos educacionais estão disponíveis na instituição em que você trabalha?
+>
+>5. Qual é a metodologia pedagógica predominante empregada em suas atividades de ensino?
+>
+>6. Qual é a frequência de uso de tecnologias educacionais na sua prática pedagógica?
+>
+>7. Em quais áreas do currículo escolar os alunos demonstram maiores desafios de compreensão e aprendizado?
+>
+>8. Como você avalia o suporte oferecido pela gestão da escola em relação às suas necessidades pedagógicas?
+>
+>9. Que tipo de recursos ou ferramentas adicionais você usa para auxiliar o processo de ensino-aprendizagem?
+>
+>10. Como é a rotina das aulas na escola em que você trabalha? O planejamento de aulas dos outros professores tem uma base a ser seguida?
 
 ***2.4. Entrevista***
 
