@@ -226,7 +226,7 @@ RNF10|A plataforma deve ser compatível com os principais navegadores e disposit
 
 ***2.7. Diagramas de Atividades***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
+![image](https://github.com/user-attachments/assets/08958c76-ee23-4464-9cf4-9b866f32a363)
 
 ***2.8. Diagrama de Classe***
 ![image](https://github.com/user-attachments/assets/9dbb978d-a39c-462e-a0f3-ceb1e7e5921e)
