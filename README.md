@@ -228,12 +228,11 @@ RNF10|A plataforma deve ser compatível com os principais navegadores e disposit
 *<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
 
 ***2.8. Diagrama de Classe***
-
-*<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
+---------------------------------------------------------------
 
 ***2.9. Protótipos***
 
-*<Imagem, arquivo (PDF), link com Protótipo.>*
+https://ninjamock.com/s/46T9MLx
 
 ## Referências
 
