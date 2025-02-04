@@ -235,8 +235,6 @@ RNF10|A plataforma deve ser compatível com os principais navegadores e disposit
 https://ninjamock.com/s/46T9MLx
 
 ## Referências
+https://logiquesistemas.com.br/blog/desenvolvimento-de-software-6-passos/
 
-*<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
-
-[1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
-
+https://blog.bussolasocial.com.br/plano-de-atividades-para-projetos-qual-a-import%C3%A2ncia-e-como-elaborar
