@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a5e7bd79-94f5-4161-9cf1-8421791c1f4b)# Projeto Disciplina: Requisitos de Software
+# Projeto Disciplina: Requisitos de Software
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
@@ -221,7 +221,8 @@ RNF10|A plataforma deve ser compatível com os principais navegadores e disposit
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
+![image](https://github.com/user-attachments/assets/2732c6a4-f048-4d09-8fbf-5e66e594d6d2)
+
 
 ***2.7. Diagramas de Atividades***
 
