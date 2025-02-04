@@ -223,6 +223,8 @@ RNF10|A plataforma deve ser compatível com os principais navegadores e disposit
 
 ![image](https://github.com/user-attachments/assets/2732c6a4-f048-4d09-8fbf-5e66e594d6d2)
 
+>[Especificações do Diagrama de Caso de Uso](https://docs.google.com/document/d/1dvcTuyssQ1NYV0I8qsi5TxSVnKUqnAnuiAbyLMCKOm4/edit?usp=drivesdk)
+
 
 ***2.7. Diagramas de Atividades***
 
@@ -236,7 +238,7 @@ RNF10|A plataforma deve ser compatível com os principais navegadores e disposit
 
 ***2.9. Protótipos***
 
-https://ninjamock.com/s/46T9MLx
+>[Protótipo Janelinha no NinjaMock](https://ninjamock.com/s/46T9MLx)
 
 ## Referências
 https://logiquesistemas.com.br/blog/desenvolvimento-de-software-6-passos/
